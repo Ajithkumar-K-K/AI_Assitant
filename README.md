@@ -1,2 +1,3 @@
 # AI_Assitant
-Make ai in windows everywhere
+
+This project aims at making AI intergrate with windows seamlessly. Delivering necessary features through shortcut keys. 
